@@ -1,4 +1,4 @@
-###LINHA DE COMANDO (CLI)
+### LINHA DE COMANDO (CLI)
 
 Interagir com o Computador através de texto
 Comando começando com $ (Unix) ou > (Win)
@@ -6,11 +6,14 @@ Comando começando com $ (Unix) ou > (Win)
 UNIX (Mac e Linux) vs Windows
 Bash e Zsh (Unix) | CMD e PowerShell (Windows)
 
-https://ss64.com
+<a href="ttps://ss64.com" target="_blank"></a>
 
-###MOVIMENTAR (BASH)
+### MOVIMENTAR (BASH)
 
+```shell
 $ cd sites
+```
+
 Move para a pasta sites
 
 $ cd ..
@@ -24,3 +27,7 @@ Move para o diretório principal do sistema / home
 
 $ clear
 Limpa a tela
+
+```
+
+```
