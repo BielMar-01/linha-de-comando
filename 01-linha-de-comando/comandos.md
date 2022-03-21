@@ -22,11 +22,20 @@ $ cd ..
 
 Move para a pasta anterior
 
+```shell
 $ cd ~/Desktop/sites
+```
+
 Move para a pasta sites dentro de Desktop
 
+```shell
 $ cd ~
+```
+
 Move para o diretório principal do sistema / home
 
+```shell
 $ clear
+```
+
 Limpa a tela
