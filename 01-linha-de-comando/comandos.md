@@ -60,7 +60,7 @@ Cria o diretório site
 $ mkdir site
 ```
 
-ria o arquivo index.html
+Cria o arquivo index.html
 
 ```shell
 $ touch index.html
