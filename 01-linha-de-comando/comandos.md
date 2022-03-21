@@ -14,9 +14,12 @@ Bash e Zsh (Unix) | CMD e PowerShell (Windows)
 $ cd sites
 ```
 
-Move para a pasta sites
+### Move para a pasta sites
 
+```shell
 $ cd ..
+```
+
 Move para a pasta anterior
 
 $ cd ~/Desktop/sites
@@ -27,7 +30,3 @@ Move para o diretório principal do sistema / home
 
 $ clear
 Limpa a tela
-
-```
-
-```
