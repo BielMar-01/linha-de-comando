@@ -10,32 +10,32 @@ Bash e Zsh (Unix) | CMD e PowerShell (Windows)
 
 ### MOVIMENTAR (BASH)
 
+Move para a pasta sites
+
 ```shell
 $ cd sites
-```
-
-### Move para a pasta sites
-
-```shell
-$ cd ..
 ```
 
 Move para a pasta anterior
 
 ```shell
-$ cd ~/Desktop/sites
+$ cd ..
 ```
 
 Move para a pasta sites dentro de Desktop
 
 ```shell
-$ cd ~
+$ cd ~/Desktop/sites
 ```
 
 Move para o diretório principal do sistema / home
 
 ```shell
-$ clear
+$ cd ~
 ```
 
 Limpa a tela
+
+```shell
+$ clear
+```
