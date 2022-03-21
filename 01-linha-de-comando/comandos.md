@@ -39,3 +39,55 @@ Limpa a tela
 ```shell
 $ clear
 ```
+
+### LISTAR E CRIAR (BASH)
+
+Lista diretórios e arquivos
+
+```shell
+$ ls
+```
+
+Lista diretórios, arquivos, invisíveis e detalhes
+
+```shell
+$ ls -all
+```
+
+Cria o diretório site
+
+```shell
+$ mkdir site
+```
+
+ria o arquivo index.html
+
+```shell
+$ touch index.html
+```
+
+### REMOVER (BASH)
+
+Remove o arquivo index.htm
+
+```shell
+$ rm index.html
+```
+
+Remove o diretório site e todos os arquivos dentro dele
+
+```shell
+$ rm -r site
+```
+
+Acessa o comando anterior
+
+```shell
+seta para cima / baixo
+```
+
+Auto-completa o comando
+
+```shell
+tab
+```
